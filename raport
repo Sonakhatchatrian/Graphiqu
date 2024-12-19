@@ -1,0 +1,16 @@
+C:\Users\SONA8\Desktop\projet_eval\
+    ├── chat\
+    │   ├── chat1.jpg
+    │   ├── chat2.jpg
+    │   ├── ...
+    │   └── chat10.jpg
+    ├── lampe\
+    │   ├── lampe1.jpg
+    │   ├── lampe2.jpg
+    │   ├── ...
+    │   └── lampe10.jpg
+    └── train\
+        ├── train1.jpg
+        ├── train2.jpg
+        ├── ...
+        └── train10.jpg
